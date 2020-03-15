@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">HW1_NumberGuessSolution</string>
     <string name="number_guess_game">Number Guess Game!</string>
-    <string name="explanation_problem">Try to guess the number I\'m thinking of, from 1-1000!</string>
+    <string name="explanation_problem">Try to guess the number I\'m thinking of, from 1–1000!</string>
     <string name="numeral">#</string>
     <string name="play_again">PLAY AGAIN</string>
+    <string name="winner">WINNER - Intents  </string>
+    <string name="higher">it\'s higher</string>
+    <string name="lower">it\'s lower!!</string>
+    <string name="restart_game">Restart Game</string>
+    <string name="out_of_range">Out of range</string>
 </resources>
